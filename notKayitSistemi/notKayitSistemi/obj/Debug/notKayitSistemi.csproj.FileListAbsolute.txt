@@ -1,0 +1,13 @@
+C:\Users\Davut\Desktop\yazilim_kursu\notKayitSistemi\notKayitSistemi\bin\Debug\notKayitSistemi.exe.config
+C:\Users\Davut\Desktop\yazilim_kursu\notKayitSistemi\notKayitSistemi\bin\Debug\notKayitSistemi.exe
+C:\Users\Davut\Desktop\yazilim_kursu\notKayitSistemi\notKayitSistemi\bin\Debug\notKayitSistemi.pdb
+C:\Users\Davut\Desktop\yazilim_kursu\notKayitSistemi\notKayitSistemi\obj\Debug\notKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\Davut\Desktop\yazilim_kursu\notKayitSistemi\notKayitSistemi\obj\Debug\notKayitSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Davut\Desktop\yazilim_kursu\notKayitSistemi\notKayitSistemi\obj\Debug\notKayitSistemi.FrmOgrenciDetay.resources
+C:\Users\Davut\Desktop\yazilim_kursu\notKayitSistemi\notKayitSistemi\obj\Debug\notKayitSistemi.FrmOgretmenDetay.resources
+C:\Users\Davut\Desktop\yazilim_kursu\notKayitSistemi\notKayitSistemi\obj\Debug\notKayitSistemi.Properties.Resources.resources
+C:\Users\Davut\Desktop\yazilim_kursu\notKayitSistemi\notKayitSistemi\obj\Debug\notKayitSistemi.csproj.GenerateResource.cache
+C:\Users\Davut\Desktop\yazilim_kursu\notKayitSistemi\notKayitSistemi\obj\Debug\notKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Davut\Desktop\yazilim_kursu\notKayitSistemi\notKayitSistemi\obj\Debug\notKayitSistemi.exe
+C:\Users\Davut\Desktop\yazilim_kursu\notKayitSistemi\notKayitSistemi\obj\Debug\notKayitSistemi.pdb
+C:\Users\Davut\Desktop\yazilim_kursu\notKayitSistemi\notKayitSistemi\obj\Debug\notKayitSistemi.FrmGiris.resources
